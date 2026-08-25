@@ -1,0 +1,6 @@
+File,Market,Start,End,Rows
+spy_daily.csv,S&P 500 ETF,2019-08-22,2026-07-23,1738
+nasdaq100_daily.csv,Nasdaq-100 Index,2019-08-22,2026-07-31,1795
+gold_daily.csv,Gold,2020-01-02,2026-02-02,1534
+btc_daily.csv,Bitcoin / USD,2019-08-22,2026-08-20,2556
+wti_close_daily.csv,WTI Crude Oil Spot,2019-08-22,2026-08-18,1747
